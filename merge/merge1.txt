@@ -1,2 +1,3 @@
 line1
 merge3
+merge3_commit2
