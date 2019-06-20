@@ -1,4 +1,4 @@
 file2 line 1
 In file 2 commit 3 add line 2
 branch 2 line 3
- 
+new `1
